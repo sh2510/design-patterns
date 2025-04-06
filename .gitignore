@@ -1,0 +1,42 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment-specific
+.env
+*.env
+
+# Backup and temp files
+*.swp
+*~
+*.bak
+*.tmp
+
+# JetBrains specific
+# Uncomment below if you're using shared run configurations and want to keep them
+# .idea/runConfigurations/
+
+# Optional: Ignore local Maven repository
+# Uncomment if you want to ignore the local repository (not recommended for team projects)
+# ~/.m2/repository/
